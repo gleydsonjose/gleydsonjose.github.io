@@ -1,3 +1,0 @@
-Adding two test projects
-Removing a console.log random
-Fixing dev code for current version
